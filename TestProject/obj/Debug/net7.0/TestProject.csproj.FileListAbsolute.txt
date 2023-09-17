@@ -1,0 +1,14 @@
+/Users/junhochoi/Documents/Projects/foundational-csharp/TestProject/bin/Debug/net7.0/TestProject
+/Users/junhochoi/Documents/Projects/foundational-csharp/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/Users/junhochoi/Documents/Projects/foundational-csharp/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/Users/junhochoi/Documents/Projects/foundational-csharp/TestProject/bin/Debug/net7.0/TestProject.dll
+/Users/junhochoi/Documents/Projects/foundational-csharp/TestProject/bin/Debug/net7.0/TestProject.pdb
+/Users/junhochoi/Documents/Projects/foundational-csharp/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/junhochoi/Documents/Projects/foundational-csharp/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/Users/junhochoi/Documents/Projects/foundational-csharp/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/Users/junhochoi/Documents/Projects/foundational-csharp/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/junhochoi/Documents/Projects/foundational-csharp/TestProject/obj/Debug/net7.0/TestProject.dll
+/Users/junhochoi/Documents/Projects/foundational-csharp/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/Users/junhochoi/Documents/Projects/foundational-csharp/TestProject/obj/Debug/net7.0/TestProject.pdb
+/Users/junhochoi/Documents/Projects/foundational-csharp/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/Users/junhochoi/Documents/Projects/foundational-csharp/TestProject/obj/Debug/net7.0/ref/TestProject.dll
