@@ -1,9 +1,29 @@
 ﻿// See https://aka.ms/new-console-template for more information
-string[] fraudIdArray = { "B123", "C234", "A345", "C15", "B177", "G3003", "C235", "B179" };
+/*
+Reverse the chars
+convert the message into a char array
+count the o's
+convert it back to a string
+print it out
+*/
 
-foreach (string id in fraudIdArray)
+
+string str = "The quick brown fox jumps over the lazy dog.";
+
+char[] charMessage = str.ToCharArray();
+Array.Reverse(charMessage);
+
+int x = 0;
+
+foreach (char i in charMessage)
 {
-    if (id.StartsWith("B")) {
-         Console.WriteLine(id);
+    if (i == 'o')
+    {
+        x++;
     }
 }
+
+string new_message = new String(charMessage);
+
+Console.WriteLine(new_message);
+Console.WriteLine($"'o' appears {x} times.");
