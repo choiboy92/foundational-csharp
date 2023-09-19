@@ -1,0 +1,14 @@
+/Users/junhochoi/Documents/Projects/foundational-csharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net7.0/Starter
+/Users/junhochoi/Documents/Projects/foundational-csharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net7.0/Starter.deps.json
+/Users/junhochoi/Documents/Projects/foundational-csharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net7.0/Starter.runtimeconfig.json
+/Users/junhochoi/Documents/Projects/foundational-csharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net7.0/Starter.dll
+/Users/junhochoi/Documents/Projects/foundational-csharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/bin/Debug/net7.0/Starter.pdb
+/Users/junhochoi/Documents/Projects/foundational-csharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/junhochoi/Documents/Projects/foundational-csharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfoInputs.cache
+/Users/junhochoi/Documents/Projects/foundational-csharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfo.cs
+/Users/junhochoi/Documents/Projects/foundational-csharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.csproj.CoreCompileInputs.cache
+/Users/junhochoi/Documents/Projects/foundational-csharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.dll
+/Users/junhochoi/Documents/Projects/foundational-csharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/refint/Starter.dll
+/Users/junhochoi/Documents/Projects/foundational-csharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.pdb
+/Users/junhochoi/Documents/Projects/foundational-csharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.genruntimeconfig.cache
+/Users/junhochoi/Documents/Projects/foundational-csharp/Challenge-project-foreach-if-array-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/ref/Starter.dll
